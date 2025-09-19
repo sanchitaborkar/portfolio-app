@@ -4,7 +4,7 @@ export default function Home() {
   const projects = [
     { id: 1, title: 'quiz app', viewUrl: "https://quizapp-phi-ten.vercel.app/", image: "/projects/quiz-app.png", github: "https://github.com/sanchitaborkar/quizapp" },
     { id: 2, title: 'To-do list app', viewUrl: "hthttps://to-do-app-psi-gray.vercel.app/tps://to-do-app-psi-gray.vercel.app/", image: "/projects/todo.png", github: "https://github.com/sanchitaborkar/to-do-app" },
-    { id: 3, title: 'portfolio', viewUrl:'#', image: "/projects/portfolio.png", github:"https://github.com/sanchitaborkar/portfolio-app" },
+    { id: 3, title: 'portfolio', viewUrl:"https://portfolio-app-green-kappa.vercel.app/", image: "/projects/portfolio.png", github:"https://github.com/sanchitaborkar/portfolio-app" },
   ];
 
   return (
