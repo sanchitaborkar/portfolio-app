@@ -63,7 +63,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-start">
           <div className="md:col-span-2">
             <h3 className="text-2xl font-semibold">About Me</h3>
-            <p className="mt-4 text-gray-200">I'm MERN Stack Developer who loves building clean and user-friendly web applications. Always learning and exploring new technologies to improve my skills.</p>
+            <p className="mt-4 text-gray-200">I&apos;m MERN Stack Developer who loves building clean and user-friendly web applications. Always learning and exploring new technologies to improve my skills.</p>
 
             <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-4">
               <div>
